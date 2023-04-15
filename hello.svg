@@ -1,15 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <style>
-    .hello {
-      stroke: #111;
-      stroke-width: 25;
-      fill: none;
-      animation: hello 1s ease-out;
-    }
-    @keyframes hello {
-      0% { stroke-dasharray: 0; stroke-dashoffset: 0; }
-      100% { stroke-dasharray: 1000; stroke-dashoffset: 0; }
-    }
-  </style>
-  <path class="hello" d="M100,500 q200,-300 400,0 q200,300 400,0" />
+<svg width="200" height="200">
+  <text x="50" y="50" font-size="30" fill="black">Hello</text>
+  <animateTransform attributeName="transform"
+                    type="rotate"
+                    from="0 100 100"
+                    to="360 100 100"
+                    dur="5s"
+                    repeatCount="indefinite"/>
 </svg>
