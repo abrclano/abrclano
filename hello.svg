@@ -1,0 +1,45 @@
+
+<svg fill="none" viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <style>
+        .title-custom-h1 {
+            animation: typing 3s steps(60, end) infinite;
+            overflow: hidden;
+            white-space: nowrap;
+            border-right: 3px solid #fff;
+            color: #fff
+        }
+        .title-custom-h3{
+            animation: typing 3s steps(60, end);
+            overflow: hidden;
+            white-space: nowrap;
+            border-right: 3px solid #fff;
+            color: #fff
+        }
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100%;
+            }
+        }
+        @media (prefers-color-scheme: dark) {
+         .title-custom-h1 {
+            color: #000000;
+        }
+        .title-custom-h3{
+            color: #000000;
+        }
+       }
+        }
+       
+    </style>
+    <div class="container">
+        <h1 class="title-custom-h1" align="center">Hi 👋, I'm fan abrclano</h1>
+        <h3 class="title-custom-h3" align="center">An obscure coder</h3>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
