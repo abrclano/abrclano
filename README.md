@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abrclano/abrclano/refs/heads/main/assets/neko.jpg" width="25%" align="right" />
+<img src="https://raw.githubusercontent.com/abrclano/abrclano/refs/heads/main/assets/neko.png" width="25%" align="right" />
 
 <img src="https://raw.githubusercontent.com/abrclano/abrclano/refs/heads/main/assets/hello.svg" width="70%" />
 
